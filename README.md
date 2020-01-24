@@ -1,2 +1,2 @@
 # frazieram
-Repository containing website files
+Repository containing website files for www.frazieram.me
